@@ -11,5 +11,6 @@ date: 2024-08-02
 ![Static Chart](/assets/Terrapin.png)
 
 ## Dynamic Chart
-
+<!--
 <iframe src="https://your-streamlit-app-url" width="100%" height="600px" frameborder="0"></iframe>
+-->
