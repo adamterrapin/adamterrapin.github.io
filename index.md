@@ -6,6 +6,7 @@ title: Terrapin Finance
 # Welcome to Terrapin Market Strategy
 
 This is a quick setup using Terrapin logos and the Cayman theme.
+Market Strategy and Tools for Using the Terrapin Finance Data Platform.
 
 ### Terrapin
 
@@ -22,6 +23,12 @@ This is a quick setup using Terrapin logos and the Cayman theme.
 ### Terrapin 4
 
 ![Terrapin4](assets/Terrapin4.png)
+
+
+## Recent Posts
+
+- [Chart of the Day](posts/2024-08-02-Chart-of-the-Day.md)
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
