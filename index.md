@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Terrapion Finance
+title: Terrapin Finance
 ---
 
 # Welcome to Our Terrapin Market Strategy
