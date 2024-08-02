@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Chart of the Day"
 date: 2024-08-02
 ---
