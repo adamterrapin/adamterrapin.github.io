@@ -27,7 +27,7 @@ Market Strategy and Tools for Using the Terrapin Finance Data Platform.
 
 ## Recent Posts
 
-- [Chart of the Day](posts/2024-08-02-Chart-of-the-Day.md)
+- [Chart of the Day](_posts/2024-08-02-Chart-of-the-Day.md)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
