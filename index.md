@@ -3,7 +3,7 @@ layout: default
 title: Terrapin Finance
 ---
 
-# Welcome to Our Terrapin Market Strategy
+# Welcome to Terrapin Market Strategy
 
 This is a quick setup using Terrapin logos and the Cayman theme.
 
