@@ -8,7 +8,7 @@ date: 2024-08-02
 
 ## Static Chart
 
-![Static Chart](/assets/Terrapin.png)
+![Terrapin](assets/Terrapin.png)
 
 ## Dynamic Chart
 <!--
